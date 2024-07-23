@@ -1,0 +1,10 @@
+selectors:
+classes selectors .name-of-class{}
+<element class="name-of-class" ><element/>
+-------------------------------------------
+universal it`s only html tags h1{}
+-------------------------------------------
+id selectors   #name-of-id{}
+<element id="name-of-id" ><element/>
+-------------------------------------------
+attributes 

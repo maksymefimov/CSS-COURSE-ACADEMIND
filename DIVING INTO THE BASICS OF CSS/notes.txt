@@ -20,3 +20,4 @@ when you use some optios for father elements
 child elements inherit this options
 ------------------------------------------------------
 combinators
+when we combine multible selectors

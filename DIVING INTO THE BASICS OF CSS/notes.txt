@@ -14,4 +14,9 @@ inline styles which we write in html document in elements has the highest priori
 #id selector high priority 
 class,:pseudo-class and[attribute] selectors medium priority
 tag and ::pseudo-elements selectors low priority
-
+-----------------------------------------------
+inheritance 
+when you use some optios for father elements
+child elements inherit this options
+------------------------------------------------------
+combinators

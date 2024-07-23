@@ -7,4 +7,11 @@ universal it`s only html tags h1{}
 id selectors   #name-of-id{}
 <element id="name-of-id" ><element/>
 -------------------------------------------
-attributes 
+attributes !!!
+-----------------------------------------
+priorities of css selectors specifity!!!
+inline styles which we write in html document in elements has the highest priority
+#id selector high priority 
+class,:pseudo-class and[attribute] selectors medium priority
+tag and ::pseudo-elements selectors low priority
+
